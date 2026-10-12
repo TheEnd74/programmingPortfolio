@@ -32,27 +32,27 @@ Processing version: 4.0.1
 ### Standard Mode
 #### Mouse:
 Click on any button on the calculator interface to apply its functions.
-Numbers 0-9 work as expected;
-"Clear All" resets the calculator back to its empty state;
-"%"
-"÷" is used to divide;
-"*" is used to multiply;
-"-" is used to subtract;
-"+" is used to add;
-"=" is used to get the result of an equation;
-"." is used for implementing decimals;
-"S" is used for switching the calculator to Scientific Mode.
+- Numbers 0-9 work as expected
+- "Clear All" resets the calculator back to its empty state
+- "%"
+- "÷" is used to divide
+- "*" is used to multiply
+- "-" is used to subtract
+- "+" is used to add
+- "=" is used to get the result of an equation
+- "." is used for implementing decimals
+- "S" is used for switching the calculator to Scientific Mode
 
 #### Keyboard:
 The keybinds for functions are the same as the symbol on the function's button (look at the mouse controls section for more details) unless specified otherwise here:
-Clear All is bound by "Esc" and "Backspace";
-Divide is bound by "/";
-Multiply is bound by "*" and lower-case "x";
-Scientific Mode is bound by "Tab".
+- Clear All is bound by "Esc" and "Backspace"
+- Divide is bound by "/"
+- Multiply is bound by "*" and lower-case "x"
+- Scientific Mode is bound by "Tab"
 
 Keyboard:
-Numbers 0-9 work as when pressed.
-All basic functions work as expected when their corresponding keybind is pressed.
+- Numbers 0-9 work as when pressed.
+- All basic functions work as expected when their corresponding keybind is pressed.
 
 ## Project Files
 Calculator.pde
