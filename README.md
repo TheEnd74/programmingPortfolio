@@ -55,15 +55,13 @@ Keyboard:
 - All basic functions work as expected when their corresponding keybind is pressed.
 
 ## Project Files
-Calculator.pde
-Button.pde
+- Calculator.pde
+- Button.pde
 
 ## Testing
 564.23 ÷ 22.8 =
-Expected result:
-24.74692982
-Result:
-24.74693
+- Expected result: 24.74692982
+- Result: 24.74693
 
 Test:
 Successful
