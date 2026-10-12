@@ -13,7 +13,7 @@ A two mode calculator, standard and scientific; standard is used for basic purpo
 
 ## Current Status
 Working:
-- [All number 0-9 work by either pressing the corresponding button on your keyboard, or pressing the button build into the calculator interface.
+- All number 0-9 work by either pressing the corresponding button on your keyboard, or pressing the button build into the calculator interface.
 - The basic equation symbols, add, subtract, multiply, divide, and equal are all fully functional and work with numbers 0-9.
 - The clear all function, which is bound with Esc and Backspace functions as intended by resetting the calculator back to its stating state.
 - The Scientific Mode button, which is an "S," and bound with Tab, is capable of resizing the window.
