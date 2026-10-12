@@ -26,8 +26,7 @@ Still in progress:
 Built with Processing.
 Processing version: 4.0.1
 
-[After the project files are uploaded, identify the
-project folder and main .pde file to open and run.]
+[Project Folder](https://github.com/TheEnd74/programmingPortfolio/tree/main/src/Calculator)
 
 ## Controls
 ### Standard Mode
