@@ -64,7 +64,13 @@ void updateDisplay() {
   // Overlay text
   fill(0);
   textAlign(RIGHT);
-  textSize(30);
+  if(displayVal.length()> 8) {
+    textSize(28);
+  } else if(displayVal.length()> 9) {
+    textSize(26);
+  } else {
+    textSize(30);
+  }
   text(displayVal, width-30, height/7);
 }
 
@@ -175,7 +181,7 @@ void handleEvent(String val, boolean isNum) {
       op = '*';
       left = false;
       newEntry = true;
-      displayVal = "*";
+      displayVal = "";
     } else if (val.equals("Clear All")) {
       displayVal = "0.0";
       l = 0.0;
