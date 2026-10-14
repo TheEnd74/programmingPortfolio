@@ -4,7 +4,9 @@
 
 ### Calculatinator
 
-![Calculator2026](https://github.com/TheEnd74/programmingPortfolio/blob/main/images/calcBasicMode.png?raw=true)
+![CalculatorBasicMode](https://github.com/TheEnd74/programmingPortfolio/blob/main/images/calcBasicMode.png?raw=true)
+
+![CalculatorScientificMode](https://github.com/TheEnd74/programmingPortfolio/blob/main/images/calcScientificMode.png?raw=true)
 
 [Link to Source Code](https://github.com/TheEnd74/programmingPortfolio/tree/main/src/Calculator)
 
