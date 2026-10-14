@@ -34,25 +34,22 @@ Processing version: 4.0.1
 
 ## Controls
 ### Basic Mode
-#### Mouse:
-Click on any button on the calculator interface to apply its functions.
-- Numbers 0-9 work as expected
-- "Clear All" resets the calculator back to its empty state
-- "%"
-- "÷" is used to divide
-- "*" is used to multiply
-- "-" is used to subtract
-- "+" is used to add
-- "=" is used to get the result of an equation
-- "." is used for implementing decimals
-- "S" is used for switching the calculator to Scientific Mode
-
-#### Keyboard:
 The keybinds for functions are the same as the symbol on the function's button (look at the mouse controls section for more details) unless specified otherwise here:
-- Clear All is bound by "Esc" and "Backspace"
-- Divide is bound by "/"
-- Multiply is bound by "*" and lower-case "x"
-- Scientific Mode is bound by "Tab"
+- Clear All = "Esc" and "Backspace"
+- Divide = "/"
+- Multiply = "*" and lower-case "x"
+- Scientific Mode = "Tab"
+
+### Scientific Mode
+- Sin = "S" or "s"
+- Cis = "C" or "c"
+- Tan = "T" or "t"
+- x^-1 = "I" or "i"
+- -x = "_"
+- e = "E" or "e"
+- log = "L" or "l"
+- √ = "R" or "r"
+
 
 Keyboard:
 - Numbers 0-9 work as when pressed.
@@ -71,4 +68,4 @@ Test:
 Successful
 
 ## Next Step
-I will implement the Percentage function.
+I will make the mode button reversible so pressing it doesn't lock you out of basic mode.
