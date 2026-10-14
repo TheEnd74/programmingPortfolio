@@ -2,16 +2,18 @@
 
 ## Term 1 Projects
 
-### Calculatinator
+## Calculatinator
 
+### Basic Mode
 ![CalculatorBasicMode](https://github.com/TheEnd74/programmingPortfolio/blob/main/images/calcBasicMode.png?raw=true)
 
+### Scientific Mode
 ![CalculatorScientificMode](https://github.com/TheEnd74/programmingPortfolio/blob/main/images/calcScientificMode.png?raw=true)
 
 [Link to Source Code](https://github.com/TheEnd74/programmingPortfolio/tree/main/src/Calculator)
 
 ## Overview
-A two mode calculator, standard and scientific; standard is used for basic purposes, such as adding and subtracting; scientific is used for more complex, specific purposes, including but not limited to: trigonometry functions, algebraic functions, and exponential and root equations.
+A two mode calculator, basic and scientific; basic is used for common purposes, such as adding and subtracting; scientific is used for more complex, specific purposes, including but not limited to: trigonometry functions, algebraic functions, and exponential and root equations.
 
 ## Current Status
 Working:
@@ -31,7 +33,7 @@ Processing version: 4.0.1
 [Project Folder](https://github.com/TheEnd74/programmingPortfolio/tree/main/src/Calculator)
 
 ## Controls
-### Standard Mode
+### Basic Mode
 #### Mouse:
 Click on any button on the calculator interface to apply its functions.
 - Numbers 0-9 work as expected
